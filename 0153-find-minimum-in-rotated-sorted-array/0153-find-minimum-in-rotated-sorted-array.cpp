@@ -6,9 +6,7 @@ public:
         int ans = INT_MAX;
         while(st <= end){
             int mid  = st + (end- st)/2;
-            if( mid == nums[0]){
-                ans = min( nums[mid] , ans);
-            }
+           
             if(nums[st] <= nums[mid]){
                 ans = min( ans , nums[st] );
                 st = mid + 1;
