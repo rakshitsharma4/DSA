@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rakshitsharma4/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rakshitsharma4/DSA/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/rakshitsharma4/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rakshitsharma4/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rakshitsharma4/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/rakshitsharma4/DSA/tree/master/0704-binary-search) |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rakshitsharma4/DSA/tree/master/0125-valid-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rakshitsharma4/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rakshitsharma4/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
