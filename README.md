@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/rakshitsharma4/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rakshitsharma4/DSA/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rakshitsharma4/DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rakshitsharma4/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
