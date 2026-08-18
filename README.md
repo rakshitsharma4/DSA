@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rakshitsharma4/DSA/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rakshitsharma4/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rakshitsharma4/DSA/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/rakshitsharma4/DSA/tree/master/0078-subsets) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rakshitsharma4/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/rakshitsharma4/DSA/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rakshitsharma4/DSA/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rakshitsharma4/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
